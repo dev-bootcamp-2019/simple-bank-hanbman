@@ -11,6 +11,7 @@ contract SimpleBank {
     //
     // State variables
     //
+    // testing git
     
     /* Fill in the keyword. Hint: We want to protect our users balance from other contracts*/
     mapping (address => uint) balances;

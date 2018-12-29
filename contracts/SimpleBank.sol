@@ -10,7 +10,7 @@ contract SimpleBank {
 
     //
     // State variables
-    //
+    // update
     
     /* Fill in the keyword. Hint: We want to protect our users balance from other contracts*/
     mapping (address => uint) public balances;
